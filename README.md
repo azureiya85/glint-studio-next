@@ -1,3 +1,5 @@
+A port of my [Svelte 5 Company Profile](https://github.com/azureiya85/Company-Profile-Svelte-5) written in Next.js / React
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
